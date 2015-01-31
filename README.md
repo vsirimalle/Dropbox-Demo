@@ -9,6 +9,6 @@ This assignment is to create a prototype of Drobox by implementing the following
 7. Tap through welcome screens
 
 Total hours spent : 6 hours
-![Video Walkthrough](anim_rotten_tomatoes.gif)
+![Video Walkthrough](dropbox-demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
