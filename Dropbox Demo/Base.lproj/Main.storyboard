@@ -582,11 +582,11 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="settings" id="TKe-0H-OxP">
-                                        <rect key="frame" x="0.0" y="0.0" width="320" height="772"/>
+                                        <rect key="frame" x="0.0" y="-312" width="320" height="772"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                     </imageView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Hez-5l-Aah">
-                                        <rect key="frame" x="79" y="321" width="168" height="108"/>
+                                        <rect key="frame" x="72" y="340" width="172" height="89"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -601,6 +601,8 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="nru-hJ-eTA"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="568"/>
                     <connections>
                         <outlet property="settingsScrollView" destination="lfL-5Y-JDz" id="9N0-95-WBr"/>
                     </connections>
@@ -853,9 +855,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="5nG-dY-cQy">
-                                        <rect key="frame" x="39" y="266" width="243" height="584"/>
+                                        <rect key="frame" x="81" y="321" width="189" height="275"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <state key="normal" title="Button">
+                                        <state key="normal">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
@@ -872,6 +874,8 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="OUj-DC-U5d"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="568"/>
                     <connections>
                         <outlet property="settingsScrollView" destination="Ldc-85-Xvf" id="WZI-aM-hig"/>
                     </connections>
@@ -1233,9 +1237,9 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="A6H-Mf-AfF"/>
-        <segue reference="pcA-yU-4Id"/>
+        <segue reference="gA6-0B-7DX"/>
         <segue reference="JIa-SQ-Fca"/>
+        <segue reference="pcA-yU-4Id"/>
         <segue reference="drq-Gg-atf"/>
     </inferredMetricsTieBreakers>
 </document>
